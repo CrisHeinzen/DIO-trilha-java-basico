@@ -1,7 +1,7 @@
 
 package curso.java.dio;
 
-//as classes devem ser nomeadas sempre com as primeiras leras em maiuscula
+//as classes (novo texto) devem ser nomeadas sempre com as primeiras leras em maiuscula
 //inclusive as compostas ex: CalculadoraCientifica
 
 public class Principal {
